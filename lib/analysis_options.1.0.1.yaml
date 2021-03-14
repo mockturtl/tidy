@@ -18,7 +18,7 @@ linter:
     - avoid_catching_errors
     - avoid_classes_with_only_static_members
     - avoid_double_and_int_checks
-    #    - avoid_dynamic_calls  # experimental
+    - avoid_dynamic_calls
     - avoid_empty_else
     - avoid_equals_and_hash_code_on_mutable_classes
     #    - avoid_escaping_inner_quotes  # note: escape characters are fine
@@ -62,8 +62,8 @@ linter:
     - constant_identifier_names
     - control_flow_in_finally
     - curly_braces_in_flow_control_structures
+    - deprecated_consistency
     #    - diagnostic_describe_all_properties  # note: for Flutter
-    #    - deprecated_consistency # experimental
     - directives_ordering
     - do_not_use_environment
     - empty_catches
@@ -175,7 +175,7 @@ linter:
     - unsafe_html
     - use_full_hex_values_for_flutter_colors
     - use_function_type_syntax_for_parameters
-    #    - use_if_null_to_convert_nulls_to_bools # experimental
+    - use_if_null_to_convert_nulls_to_bools
     - use_is_even_rather_than_modulo
     #    - use_key_in_widget_constructors # note: consider enabling for published libraries
     - use_late_for_private_fields_and_variables
