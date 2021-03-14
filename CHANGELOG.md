@@ -1,4 +1,8 @@
-## 1.1.0
+## 1.1.2
+
+- fix error with unreleased rules (dart sdk channel: dev)
+
+## 1.1.0 - YANKED
 
 - BREAKING: requires Dart 2.12
 - REMOVED: `avoid_as` [dart-lang/linter#2439][]
