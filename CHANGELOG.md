@@ -1,5 +1,6 @@
-## 1.1.2
+## 2.12.0
 
+- align versioning with Dart sdk
 - fix error with unreleased rules (dart sdk channel: dev)
 
 ## 1.1.0 - YANKED
