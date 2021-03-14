@@ -1,6 +1,6 @@
 ## 2.13.0-0
 
-##### Prerelease
+**Prerelease**
 
 - `deprecated_consistency` [dart-lang/linter#2451][]
 - `use_if_null_to_convert_null_to_bool` [dart-lang/linter#2480][]
@@ -12,7 +12,9 @@
 - align versioning with Dart sdk
 - fix error with unreleased rules (dart sdk channel: dev)
 
-## 1.1.0 - YANKED
+## 1.1.0
+
+ **YANKED**
 
 - BREAKING: requires Dart 2.12
 - REMOVED: `avoid_as` [dart-lang/linter#2439][]
