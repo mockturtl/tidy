@@ -1,10 +1,12 @@
-## 1.0.1-nullsafety
+## 1.1.0
 
+- BREAKING: requires Dart 2.12
 - REMOVED: `avoid_as` [dart-lang/linter#2439][]
+- `avoid_dynamic` [dart-lang/linter#2417][]
 - `use_named_const` [dart-lang/linter#2429][]
 - `deprecated_consistency` [dart-lang/linter#2451][]
 - `use_if_null_to_convert_null_to_bool` [dart-lang/linter#2480][]
-- `avoid_dynamic` [dart-lang/linter#2417][]
+- `avoid_multiple_declarations_per_line` [dart-lang/linter#2502][]
 
 ## 1.0.0-nullsafety.0
 
@@ -15,3 +17,4 @@
 [dart-lang/linter#2439]: https://github.com/dart-lang/linter/pull/2439
 [dart-lang/linter#2451]: https://github.com/dart-lang/linter/pull/2451
 [dart-lang/linter#2480]: https://github.com/dart-lang/linter/pull/2480
+[dart-lang/linter#2502]: https://github.com/dart-lang/linter/pull/2502
