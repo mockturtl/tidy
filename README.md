@@ -15,14 +15,16 @@ Note a rule's existence upstream does not imply stability, or publication to [da
 Usage
 -----
 
+- Add `tidy` to your `dev_dependencies`, per <https://pub.dev/packages/tidy/install>.
+
+```sh
+$ dart pub add -d tidy
+# or flutter pub pub add -d tidy
+```
+
+- Include the rules in `analysis_options.yaml` at the root of your project:
+
 ```yaml
-dev_dependencies:
-  tidy: ^1.0.0-nullsafety.0
-```
-
-Add to your project's `analysis_options.yaml`:
-
-```
 include package:tidy/analysis_options.yaml  # or specify a version: analysis_options.1.0.0.yaml
 
 # You probably do want some customization.
