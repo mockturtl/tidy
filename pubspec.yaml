@@ -1,7 +1,7 @@
 name: tidy
-description: A completionist set of lint rules.
-version: 2.13.0-0
+description: A completionist set of lint rules, aligned with Dart SDK versions.
+version: 2.13.0
 repository: https://github.com/mockturtl/tidy
 
 environment:
-  sdk: '>=2.13.0-0 <3.0.0'
+  sdk: '>=2.13.0 <3.0.0'
