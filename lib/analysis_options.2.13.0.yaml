@@ -79,6 +79,7 @@ linter:
     - join_return_with_assignment
     #    - leading_newlines_in_multiline_strings  # note: optional
     - library_names
+    #    - library_private_types_in_public_api # unreleased
     - library_prefixes
     #    - lines_longer_than_80_chars  # note: false positive with long doc comments
     - list_remove_unrelated_type
