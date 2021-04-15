@@ -2,7 +2,7 @@
 
 ofile="all.yaml"
 url="https://raw.githubusercontent.com/dart-lang/linter/master/example/all.yaml"
-version="1.0.1"
+version="2.13.0"
 
 curl "$url" -o "$ofile"
 
