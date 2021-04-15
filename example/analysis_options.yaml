@@ -1,0 +1,7 @@
+include: package:tidy/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/src/model/*.g.dart
+  errors:
+    import_of_legacy_library_into_null_safe: ignore

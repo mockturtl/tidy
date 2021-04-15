@@ -1,0 +1,9 @@
+name: tidy_example
+description: Only here to make `pana` happy. Feel free to grab the example file, though.
+publish_to: none
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dev_dependencies:
+  tidy: any
