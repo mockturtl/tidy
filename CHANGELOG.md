@@ -2,11 +2,17 @@
 
 **Prerelease**
 
-Current: `linter: 1.3.0` [dart-lang/sdk@fc03431](https://github.com/dart-lang/sdk/commit/fc03431d441cd960cd37bc362446ba2f37bf79d0)
+Current: `linter: 1.6.1` [dart-lang/sdk@b5e7656][sdk-linter]
 
 - `library_private_types_in_public_api` [dart-lang/linter#2539][]
 - `prefer_null_aware_method_calls` [dart-lang/linter#2560][]
 - `require_trailing_commas` [dart-lang/linter#2557][]
+- `depend_on_referenced_packages` [dart-lang/linter#2659][]
+- `noop_primitive_operations` [[dart-lang/linter#2622][]
+- `prefer_final_parameters` [dart-lang/linter#2613][]
+- `use_test_throws_matchers` [dart-lang/linter#2631][]
+
+[sdk-linter]: https://github.com/dart-lang/sdk/commit/b5e76568336729efe431422487a22eb3f78073d3
 
 ## [2.13.0][] (`linter: 1.2.1`)
 
@@ -46,3 +52,7 @@ Current: `linter: 1.3.0` [dart-lang/sdk@fc03431](https://github.com/dart-lang/sd
 [dart-lang/linter#2539]: https://github.com/dart-lang/linter/pull/2539
 [dart-lang/linter#2557]: https://github.com/dart-lang/linter/pull/2557
 [dart-lang/linter#2560]: https://github.com/dart-lang/linter/pull/2560
+[dart-lang/linter#2613]: https://github.com/dart-lang/linter/pull/2613
+[dart-lang/linter#2622]: https://github.com/dart-lang/linter/pull/2622
+[dart-lang/linter#2631]: https://github.com/dart-lang/linter/pull/2631
+[dart-lang/linter#2659]: https://github.com/dart-lang/linter/pull/2659
