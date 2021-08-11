@@ -25,7 +25,7 @@ $ dart pub add -d tidy
 - Include the rules in `analysis_options.yaml` at the root of your project:
 
 ```yaml
-include package:tidy/analysis_options.yaml  # or specify a version: analysis_options.1.0.0.yaml
+include: package:tidy/analysis_options.yaml  # or specify a version: analysis_options.1.0.0.yaml
 
 # You probably do want some customization.
 analyzer:
@@ -39,9 +39,10 @@ analyzer:
 linter:
   rules:
     public_member_api_docs: true
-    use_key_in_widget_constructors: true
     prefer_final_locals: true
+    require_trailing_commas: false
     unnecessary_final: false
+    use_key_in_widget_constructors: true
 ```
 
 ### Versioning

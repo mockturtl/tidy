@@ -2,7 +2,7 @@
 
 **Prerelease**
 
-Current: `linter: 1.6.1` [dart-lang/sdk@b5e7656][sdk-linter]
+Current: `linter: 1.9.0` [dart-lang/sdk@c22a170][sdk-linter]
 
 - `library_private_types_in_public_api` [dart-lang/linter#2539][]
 - `prefer_null_aware_method_calls` [dart-lang/linter#2560][]
@@ -12,7 +12,7 @@ Current: `linter: 1.6.1` [dart-lang/sdk@b5e7656][sdk-linter]
 - `prefer_final_parameters` [dart-lang/linter#2613][]
 - `use_test_throws_matchers` [dart-lang/linter#2631][]
 
-[sdk-linter]: https://github.com/dart-lang/sdk/commit/b5e76568336729efe431422487a22eb3f78073d3
+[sdk-linter]: https://github.com/dart-lang/sdk/commit/c22a170429a0efc5d3133a6193407c6d09ca1e53
 
 ## [2.13.0][] (`linter: 1.2.1`)
 
