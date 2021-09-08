@@ -1,20 +1,30 @@
-## [2.14.0-1][2.14.0]
+## [2.15.0-0][2.15.0]
 
 **Prerelease**
 
-Current: `linter: 1.9.0` [dart-lang/sdk@c22a170][sdk-linter]
+[dart-lang/sdk@281b0d3][sdk-linter]  
+[linter@1.11.0][] 
+
+- `unnecessary_constructor_name` [dart-lang/linter#2919][]
+
+[sdk-linter]: https://github.com/dart-lang/sdk/commit/281b0d3257f84ec7f817d91adf5f9f7d6c3a7918
+
+## [2.14.0][]
+
+[linter@1.8.0][]
 
 - `library_private_types_in_public_api` [dart-lang/linter#2539][]
 - `prefer_null_aware_method_calls` [dart-lang/linter#2560][]
-- `require_trailing_commas` [dart-lang/linter#2557][]
+- OPT-IN: `require_trailing_commas` [dart-lang/linter#2557][]
 - `depend_on_referenced_packages` [dart-lang/linter#2659][]
-- `noop_primitive_operations` [[dart-lang/linter#2622][]
-- `prefer_final_parameters` [dart-lang/linter#2613][]
+- `noop_primitive_operations` [dart-lang/linter#2622][]
+- OPT-IN: `prefer_final_parameters` [dart-lang/linter#2613][]
 - `use_test_throws_matchers` [dart-lang/linter#2631][]
+- `eol_at_end_of_file` [dart-lang/linter#2762][]
 
-[sdk-linter]: https://github.com/dart-lang/sdk/commit/c22a170429a0efc5d3133a6193407c6d09ca1e53
+## [2.13.0][]
 
-## [2.13.0][] (`linter: 1.2.1`)
+[linter@1.2.1][]
 
 - No longer ignores `import_of_legacy_library_into_null_safe`.
 - `deprecated_consistency` [dart-lang/linter#2451][]
@@ -22,7 +32,9 @@ Current: `linter: 1.9.0` [dart-lang/sdk@c22a170][sdk-linter]
 - `avoid_multiple_declarations_per_line` [dart-lang/linter#2502][]
 - `use_named_constants` [dart-lang/linter#2429][]
 
-## [2.12.0][] (`linter: 0.1.129`)
+## [2.12.0][]
+
+[linter@0.1.129][]
 
 - align versioning with Dart sdk
 - fix error with unreleased rules (dart sdk channel: dev)
@@ -39,9 +51,15 @@ Current: `linter: 1.9.0` [dart-lang/sdk@c22a170][sdk-linter]
 
 - Initial version, created by Stagehand
 
+[2.15.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2150
 [2.14.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2140
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
+
+[linter@1.11.0]: https://pub.dev/packages/linter/changelog#1110
+[linter@1.8.0]: https://pub.dev/packages/linter/changelog#180
+[linter@1.2.1]: https://pub.dev/packages/linter/changelog#121
+[linter@0.1.129]: https://pub.dev/packages/linter/changelog#01129
 
 [dart-lang/linter#2417]: https://github.com/dart-lang/linter/pull/2417
 [dart-lang/linter#2429]: https://github.com/dart-lang/linter/pull/2429
@@ -56,3 +74,5 @@ Current: `linter: 1.9.0` [dart-lang/sdk@c22a170][sdk-linter]
 [dart-lang/linter#2622]: https://github.com/dart-lang/linter/pull/2622
 [dart-lang/linter#2631]: https://github.com/dart-lang/linter/pull/2631
 [dart-lang/linter#2659]: https://github.com/dart-lang/linter/pull/2659
+[dart-lang/linter#2762]: https://github.com/dart-lang/linter/pull/2762
+[dart-lang/linter#2919]: https://github.com/dart-lang/linter/pull/2919
