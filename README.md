@@ -40,7 +40,7 @@ linter:
   rules:
     public_member_api_docs: true
     prefer_final_locals: true
-    require_trailing_commas: false
+    require_trailing_commas: true
     unnecessary_final: false
     use_key_in_widget_constructors: true
 ```

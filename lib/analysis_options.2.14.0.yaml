@@ -146,7 +146,7 @@ linter:
     - provide_deprecation_message
     #    - public_member_api_docs # note: consider overriding as API stabilizes
     - recursive_getters
-    - require_trailing_commas
+    #    - require_trailing_commas # note: let `dart format` wrap closing brackets
     - sized_box_for_whitespace
     - slash_for_doc_comments
     - sort_child_properties_last
