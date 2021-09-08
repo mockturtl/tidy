@@ -1,8 +1,8 @@
 #!/bin/sh -e
 
-ofile="all.yaml"
+ofile="/tmp/all.yaml"
 url="https://raw.githubusercontent.com/dart-lang/linter/master/example/all.yaml"
-version="2.14.0"
+version="2.15.0"
 
 curl "$url" -o "$ofile"
 
