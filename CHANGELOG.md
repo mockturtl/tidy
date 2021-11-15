@@ -1,3 +1,10 @@
+## [2.16.0-0][2.16.0]
+
+**Prerelease**
+
+- `avoid_final_parameters` [dart-lang/linter#3045][]
+- `sized_box_shrink_expand` [dart-lang/linter#2072][]
+
 ## [2.15.0][]
 
 [linter@1.14.0][]
@@ -46,6 +53,7 @@
 
 - Initial version, created by Stagehand
 
+[2.16.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2160
 [2.15.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2150
 [2.14.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2140
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
@@ -57,6 +65,7 @@
 [linter@1.2.1]: https://pub.dev/packages/linter/changelog#121
 [linter@0.1.129]: https://pub.dev/packages/linter/changelog#01129
 
+[dart-lang/linter#2072]: https://github.com/dart-lang/linter/issues/2072
 [dart-lang/linter#2417]: https://github.com/dart-lang/linter/pull/2417
 [dart-lang/linter#2429]: https://github.com/dart-lang/linter/pull/2429
 [dart-lang/linter#2439]: https://github.com/dart-lang/linter/pull/2439
@@ -72,3 +81,4 @@
 [dart-lang/linter#2659]: https://github.com/dart-lang/linter/pull/2659
 [dart-lang/linter#2762]: https://github.com/dart-lang/linter/pull/2762
 [dart-lang/linter#2919]: https://github.com/dart-lang/linter/pull/2919
+[dart-lang/linter#3045]: https://github.com/dart-lang/linter/pull/3045
