@@ -2,7 +2,7 @@
 
 ofile="/tmp/all.yaml"
 url="https://raw.githubusercontent.com/dart-lang/linter/master/example/all.yaml"
-version="2.15.0"
+version="$(grep 'version:' pubspec.yaml | cut -d ' ' -f2 | awk '{sub(/-[\.0-9]*/,""); print}')"
 
 curl "$url" -o "$ofile"
 
