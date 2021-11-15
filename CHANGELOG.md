@@ -1,13 +1,8 @@
-## [2.15.0-0][2.15.0]
+## [2.15.0][]
 
-**Prerelease**
-
-[dart-lang/sdk@281b0d3][sdk-linter]  
-[linter@1.11.0][] 
+[linter@1.14.0][]
 
 - `unnecessary_constructor_name` [dart-lang/linter#2919][]
-
-[sdk-linter]: https://github.com/dart-lang/sdk/commit/281b0d3257f84ec7f817d91adf5f9f7d6c3a7918
 
 ## [2.14.0][]
 
@@ -56,6 +51,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.14.0]: https://pub.dev/packages/linter/changelog#1140
 [linter@1.11.0]: https://pub.dev/packages/linter/changelog#1110
 [linter@1.8.0]: https://pub.dev/packages/linter/changelog#180
 [linter@1.2.1]: https://pub.dev/packages/linter/changelog#121
