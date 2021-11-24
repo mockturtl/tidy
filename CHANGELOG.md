@@ -1,3 +1,14 @@
+## [2.16.0-1][2.16.0]
+
+**Prerelease**
+
+[linter@1.15.0][]
+
+- `no_leading_underscores_for_library_prefixes` [dart-lang/linter#3062][]
+- `no_leading_underscores_for_local_identifiers` [dart-lang/linter#3062][]
+- `secure_pubspec_urls` [dart-lang/linter#3056][]
+- `use_decorated_box` [dart-lang/linter#3061][]
+
 ## [2.16.0-0][2.16.0]
 
 **Prerelease**
@@ -59,6 +70,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.15.0]: https://pub.dev/packages/linter/changelog#1150
 [linter@1.14.0]: https://pub.dev/packages/linter/changelog#1140
 [linter@1.11.0]: https://pub.dev/packages/linter/changelog#1110
 [linter@1.8.0]: https://pub.dev/packages/linter/changelog#180
@@ -82,3 +94,6 @@
 [dart-lang/linter#2762]: https://github.com/dart-lang/linter/pull/2762
 [dart-lang/linter#2919]: https://github.com/dart-lang/linter/pull/2919
 [dart-lang/linter#3045]: https://github.com/dart-lang/linter/pull/3045
+[dart-lang/linter#3056]: https://github.com/dart-lang/linter/pull/3056
+[dart-lang/linter#3061]: https://github.com/dart-lang/linter/pull/3061
+[dart-lang/linter#3062]: https://github.com/dart-lang/linter/pull/3062
