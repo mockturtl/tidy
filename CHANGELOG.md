@@ -5,7 +5,7 @@
 [linter@1.17.1][]
 
 - `conditional_uri_does_not_exist` [dart-lang/linter#3080][]
-
+- `unnecessary_late` [dart-lang/linter#3052][]
 
 ## [2.16.0-1][2.16.0]
 
@@ -104,6 +104,7 @@
 [dart-lang/linter#2762]: https://github.com/dart-lang/linter/pull/2762
 [dart-lang/linter#2919]: https://github.com/dart-lang/linter/pull/2919
 [dart-lang/linter#3045]: https://github.com/dart-lang/linter/pull/3045
+[dart-lang/linter#3052]: https://github.com/dart-lang/linter/pull/3052
 [dart-lang/linter#3056]: https://github.com/dart-lang/linter/pull/3056
 [dart-lang/linter#3061]: https://github.com/dart-lang/linter/pull/3061
 [dart-lang/linter#3062]: https://github.com/dart-lang/linter/pull/3062
