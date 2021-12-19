@@ -1,3 +1,12 @@
+## [2.16.0-2][2.16.0]
+
+**Prerelease**
+
+[linter@1.17.1][]
+
+- `conditional_uri_does_not_exist` [dart-lang/linter#3080][]
+
+
 ## [2.16.0-1][2.16.0]
 
 **Prerelease**
@@ -70,6 +79,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.17.1]: https://pub.dev/packages/linter/changelog#1171
 [linter@1.15.0]: https://pub.dev/packages/linter/changelog#1150
 [linter@1.14.0]: https://pub.dev/packages/linter/changelog#1140
 [linter@1.11.0]: https://pub.dev/packages/linter/changelog#1110
@@ -97,3 +107,4 @@
 [dart-lang/linter#3056]: https://github.com/dart-lang/linter/pull/3056
 [dart-lang/linter#3061]: https://github.com/dart-lang/linter/pull/3061
 [dart-lang/linter#3062]: https://github.com/dart-lang/linter/pull/3062
+[dart-lang/linter#3080]: https://github.com/dart-lang/linter/pull/3080
