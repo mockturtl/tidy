@@ -53,7 +53,7 @@ Its minimum SDK constraint will bump accordingly.  (Your project's Dart version 
 
 In particular, your Flutter version may not ship the latest stable Dart.
 
-[parity]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#linter-1
+[parity]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#linter
 
 ### Contributing
 
