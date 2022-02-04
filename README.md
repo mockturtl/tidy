@@ -19,7 +19,7 @@ Usage
 
 ```sh
 $ dart pub add -d tidy
-# or flutter pub pub add -d tidy
+# or flutter pub add -d tidy
 ```
 
 - Include the rules in `analysis_options.yaml` at the root of your project:

@@ -1,3 +1,7 @@
+## [2.17.0-0][2.17.0]
+
+**Prerelease**
+
 ## [2.16.0][]
 
 [linter@1.18.0][]
@@ -77,6 +81,7 @@
 
 - Initial version, created by Stagehand
 
+[2.17.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2170
 [2.16.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2160
 [2.15.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2150
 [2.14.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2140
