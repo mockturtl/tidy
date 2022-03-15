@@ -2,6 +2,7 @@
 
 - `use_enums` [dart-lang/linter#3253][]
 - `use_colored_box` [dart-lang/linter#3254][]
+- `use_super_parameters` [dart-lang/linter#3265][]
 
 ## [2.17.0-0][2.17.0]
 
@@ -126,3 +127,4 @@
 [dart-lang/linter#3080]: https://github.com/dart-lang/linter/pull/3080
 [dart-lang/linter#3253]: https://github.com/dart-lang/linter/pull/3253
 [dart-lang/linter#3254]: https://github.com/dart-lang/linter/pull/3254
+[dart-lang/linter#3265]: https://github.com/dart-lang/linter/pull/3265
