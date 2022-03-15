@@ -1,3 +1,7 @@
+## HEAD
+
+- `use_colored_box` [dart-lang/linter#3254]
+
 ## [2.17.0-0][2.17.0]
 
 **Prerelease**
@@ -119,3 +123,4 @@
 [dart-lang/linter#3061]: https://github.com/dart-lang/linter/pull/3061
 [dart-lang/linter#3062]: https://github.com/dart-lang/linter/pull/3062
 [dart-lang/linter#3080]: https://github.com/dart-lang/linter/pull/3080
+[dart-lang/linter#3254]: https://github.com/dart-lang/linter/pull/3254
