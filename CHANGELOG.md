@@ -1,4 +1,8 @@
-## HEAD
+##  [2.17.0-1][2.17.0]
+
+**Prerelease**
+
+[linter@1.20.0][]
 
 - `use_enums` [dart-lang/linter#3253][]
 - `use_colored_box` [dart-lang/linter#3254][]
@@ -94,6 +98,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.20.0]: https://pub.dev/packages/linter/changelog#1200
 [linter@1.18.0]: https://pub.dev/packages/linter/changelog#1180 
 [linter@1.17.1]: https://pub.dev/packages/linter/changelog#1171
 [linter@1.15.0]: https://pub.dev/packages/linter/changelog#1150
