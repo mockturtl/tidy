@@ -1,3 +1,11 @@
+## HEAD
+
+**Prerelease**
+
+[linter@1.24.0][]
+
+- `unnecessary_to_list_in_spreads` [dart-lang/linter#3414][]
+
 ##  [2.18.0-0][2.18.0]
 
 **Prerelease**
@@ -111,6 +119,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.24.0]: https://pub.dev/packages/linter/changelog#1240
 [linter@1.23.0]: https://pub.dev/packages/linter/changelog#1230
 [linter@1.22.0]: https://pub.dev/packages/linter/changelog#1220
 [linter@1.20.0]: https://pub.dev/packages/linter/changelog#1200
@@ -149,3 +158,4 @@
 [dart-lang/linter#3254]: https://github.com/dart-lang/linter/pull/3254
 [dart-lang/linter#3265]: https://github.com/dart-lang/linter/pull/3265
 [dart-lang/linter#3392]: https://github.com/dart-lang/linter/pull/3392
+[dart-lang/linter#3414]: https://github.com/dart-lang/linter/pull/3414
