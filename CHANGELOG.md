@@ -6,7 +6,7 @@
 
 - `unnecessary_to_list_in_spreads` [dart-lang/linter#3414][]
 
-##  [2.18.0-0][2.18.0]
+## [2.18.0-0][2.18.0]
 
 **Prerelease**
 
@@ -18,7 +18,7 @@
 
 [linter@1.22.0][]
 
-##  [2.17.0-1][2.17.0]
+## [2.17.0-1][2.17.0]
 
 **Prerelease**
 
