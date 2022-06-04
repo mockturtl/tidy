@@ -1,3 +1,7 @@
+## HEAD
+
+- `discarded_futures` [dart-lang/linter#3431][]
+
 ## [2.18.0-1][2.18.0]
 
 **Prerelease**
@@ -159,3 +163,4 @@
 [dart-lang/linter#3265]: https://github.com/dart-lang/linter/pull/3265
 [dart-lang/linter#3392]: https://github.com/dart-lang/linter/pull/3392
 [dart-lang/linter#3414]: https://github.com/dart-lang/linter/pull/3414
+[dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
