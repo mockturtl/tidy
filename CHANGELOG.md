@@ -1,69 +1,27 @@
 ## HEAD
 
 - `discarded_futures` [dart-lang/linter#3431][]
-
-## [2.18.0-1][2.18.0]
-
-**Prerelease**
-
-[linter@1.24.0][]
-
 - `unnecessary_to_list_in_spreads` [dart-lang/linter#3414][]
-
-## [2.18.0-0][2.18.0]
-
-**Prerelease**
-
-[linter@1.23.0][]
-
 - `unnecessary_null_aware_operator_on_extension_on_nullable` [dart-lang/linter#3392][]
 
 ##  [2.17.0][]
 
 [linter@1.22.0][]
 
-## [2.17.0-1][2.17.0]
-
-**Prerelease**
-
-[linter@1.20.0][]
-
 - `use_enums` [dart-lang/linter#3253][]
 - `use_colored_box` [dart-lang/linter#3254][]
 - `use_super_parameters` [dart-lang/linter#3265][]
-
-## [2.17.0-0][2.17.0]
-
-**Prerelease**
 
 ## [2.16.0][]
 
 [linter@1.18.0][]
 
-## [2.16.0-2][2.16.0]
-
-**Prerelease**
-
-[linter@1.17.1][]
-
 - `conditional_uri_does_not_exist` [dart-lang/linter#3080][]
 - `unnecessary_late` [dart-lang/linter#3052][]
-
-## [2.16.0-1][2.16.0]
-
-**Prerelease**
-
-[linter@1.15.0][]
-
 - `no_leading_underscores_for_library_prefixes` [dart-lang/linter#3062][]
 - `no_leading_underscores_for_local_identifiers` [dart-lang/linter#3062][]
 - `secure_pubspec_urls` [dart-lang/linter#3056][]
 - `use_decorated_box` [dart-lang/linter#3061][]
-
-## [2.16.0-0][2.16.0]
-
-**Prerelease**
-
 - `avoid_final_parameters` [dart-lang/linter#3045][]
 - `sized_box_shrink_expand` [dart-lang/linter#2072][]
 
