@@ -1,3 +1,11 @@
+## [HEAD][2.19.0]
+
+**Prerelease**
+
+[linter@1.26.0][]
+
+- `combinators_ordering` [dart-lang/linter#3468][]
+
 ## [2.19.0-0][2.19.0]
 
 **Prerelease**
@@ -88,6 +96,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.26.0]: https://pub.dev/packages/linter/changelog#1260
 [linter@1.25.0]: https://pub.dev/packages/linter/changelog#1250
 [linter@1.24.0]: https://pub.dev/packages/linter/changelog#1240
 [linter@1.23.0]: https://pub.dev/packages/linter/changelog#1230
@@ -130,3 +139,4 @@
 [dart-lang/linter#3392]: https://github.com/dart-lang/linter/pull/3392
 [dart-lang/linter#3414]: https://github.com/dart-lang/linter/pull/3414
 [dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
+[dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
