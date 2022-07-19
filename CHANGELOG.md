@@ -5,6 +5,7 @@
 [linter@1.26.0][]
 
 - `combinators_ordering` [dart-lang/linter#3468][]
+- REMOVE: `invariant_booleans` [dart-lang/linter#3497][]
 
 ## [2.19.0-0][2.19.0]
 
@@ -140,3 +141,4 @@
 [dart-lang/linter#3414]: https://github.com/dart-lang/linter/pull/3414
 [dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
 [dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
+[dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
