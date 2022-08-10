@@ -1,3 +1,11 @@
+## HEAD
+
+**Prerelease**
+
+[linter@1.27.0][]
+
+- `use_string_in_part_of_directives` [dart-lang/linter#3567][]
+
 ## [2.19.0-1][2.19.0]
 
 **Prerelease**
@@ -97,6 +105,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.27.0]: https://pub.dev/packages/linter/changelog#1270
 [linter@1.26.0]: https://pub.dev/packages/linter/changelog#1260
 [linter@1.25.0]: https://pub.dev/packages/linter/changelog#1250
 [linter@1.24.0]: https://pub.dev/packages/linter/changelog#1240
@@ -142,3 +151,4 @@
 [dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
 [dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
 [dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
+[dart-lang/linter#3567]: https://github.com/dart-lang/linter/pull/3567
