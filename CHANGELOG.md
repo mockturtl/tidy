@@ -5,6 +5,7 @@
 [linter@1.27.0][]
 
 - `use_string_in_part_of_directives` [dart-lang/linter#3567][]
+- `unreachable_from_main` [dart-lang/linter#3513][]
 
 ## [2.19.0-1][2.19.0]
 
@@ -151,4 +152,5 @@
 [dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
 [dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
 [dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
+[dart-lang/linter#3513]: https://github.com/dart-lang/linter/pull/3513
 [dart-lang/linter#3567]: https://github.com/dart-lang/linter/pull/3567
