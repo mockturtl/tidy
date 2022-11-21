@@ -6,6 +6,7 @@
 
 - `collection_methods_unrelated_type` [dart-lang/linter#3692][]
 - `dangling_library_doc_comments` [dart-lang/linter#3796][]
+- `enable_null_safety` [dart-lang/linter#2773][]
 
 ## [2.19.0-2][2.19.0]
 
@@ -166,3 +167,4 @@
 [dart-lang/linter#3567]: https://github.com/dart-lang/linter/pull/3567
 [dart-lang/linter#3692]: https://github.com/dart-lang/linter/pull/3692
 [dart-lang/linter#3796]: https://github.com/dart-lang/linter/pull/3796
+[dart-lang/linter#2773]: https://github.com/dart-lang/linter/pull/2773
