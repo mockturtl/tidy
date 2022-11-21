@@ -86,6 +86,7 @@ linter:
     - iterable_contains_unrelated_type
     - join_return_with_assignment
     #    - leading_newlines_in_multiline_strings  # note: optional
+    - library_annotations
     - library_names
     - library_prefixes
     - library_private_types_in_public_api

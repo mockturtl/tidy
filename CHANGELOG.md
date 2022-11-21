@@ -8,6 +8,7 @@
 - `dangling_library_doc_comments` [dart-lang/linter#3796][]
 - `enable_null_safety` [dart-lang/linter#2773][]
 - `implicit_call_tearoffs` [dart-lang/linter#3592][]
+- `library_annotations` [dart-lang/linter#3803][]
 
 ## [2.19.0-2][2.19.0]
 
@@ -170,3 +171,4 @@
 [dart-lang/linter#3796]: https://github.com/dart-lang/linter/pull/3796
 [dart-lang/linter#2773]: https://github.com/dart-lang/linter/pull/2773
 [dart-lang/linter#3592]: https://github.com/dart-lang/linter/pull/3592
+[dart-lang/linter#3803]: https://github.com/dart-lang/linter/pull/3803
