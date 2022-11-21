@@ -1,3 +1,11 @@
+## HEAD
+
+**Prerelease**
+
+[linter@1.30.0][]
+
+- `collection_methods_unrelated_type` [dart-lang/linter#3692][]
+
 ## [2.19.0-2][2.19.0]
 
 **Prerelease**
@@ -106,6 +114,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.30.0]: https://pub.dev/packages/linter/changelog#1300
 [linter@1.28.0]: https://pub.dev/packages/linter/changelog#1280
 [linter@1.26.0]: https://pub.dev/packages/linter/changelog#1260
 [linter@1.25.0]: https://pub.dev/packages/linter/changelog#1250
@@ -154,3 +163,4 @@
 [dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
 [dart-lang/linter#3513]: https://github.com/dart-lang/linter/pull/3513
 [dart-lang/linter#3567]: https://github.com/dart-lang/linter/pull/3567
+[dart-lang/linter#3692]: https://github.com/dart-lang/linter/pull/3692
