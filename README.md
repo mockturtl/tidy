@@ -31,8 +31,6 @@ include: package:tidy/analysis_options.yaml  # or specify a version: analysis_op
 analyzer:
   exclude:
     - lib/src/**/*.g.dart
-  errors:
-    import_of_legacy_library_into_null_safe: ignore
 
 # Override to taste as your project evolves.
 # https://dart.dev/guides/language/analysis-options#disabling-individual-rules
