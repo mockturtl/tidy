@@ -1,3 +1,9 @@
+## HEAD
+
+**Prerelease**
+
+- `unnecessary_breaks` [dart-lang/linter#3981][]
+
 ## [3.0.0-0][3.0.0]
 
 **Prerelease**
@@ -167,3 +173,4 @@
 [dart-lang/linter#3791]: https://github.com/dart-lang/linter/pull/3791
 [dart-lang/linter#3879]: https://github.com/dart-lang/linter/issues/3879
 [dart-lang/linter#3880]: https://github.com/dart-lang/linter/issues/3880
+[dart-lang/linter#3981]: https://github.com/dart-lang/linter/pull/3981
