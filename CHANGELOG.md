@@ -1,8 +1,6 @@
-## [2.19.0-3][2.19.0]
+## [2.19.0][]
 
-**Prerelease**
-
-[linter@1.30.0][]
+[linter@1.31.0][]
 
 - `collection_methods_unrelated_type` [dart-lang/linter#3692][]
 - `dangling_library_doc_comments` [dart-lang/linter#3796][]
@@ -10,28 +8,10 @@
 - `implicit_call_tearoffs` [dart-lang/linter#3592][]
 - `library_annotations` [dart-lang/linter#3803][]
 - `unnecessary_library_directive` [dart-lang/linter#3791][]
-
-## [2.19.0-2][2.19.0]
-
-**Prerelease**
-
-[linter@1.28.0][]
-
 - `use_string_in_part_of_directives` [dart-lang/linter#3567][]
 - `unreachable_from_main` [dart-lang/linter#3513][]
-
-## [2.19.0-1][2.19.0]
-
-**Prerelease**
-
-[linter@1.26.0][]
-
 - `combinators_ordering` [dart-lang/linter#3468][]
 - REMOVE: `invariant_booleans` [dart-lang/linter#3497][]
-
-## [2.19.0-0][2.19.0]
-
-**Prerelease**
 
 ## [2.18.0][]
 
@@ -119,6 +99,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.31.0]: https://pub.dev/packages/linter/changelog#1310
 [linter@1.30.0]: https://pub.dev/packages/linter/changelog#1300
 [linter@1.28.0]: https://pub.dev/packages/linter/changelog#1280
 [linter@1.26.0]: https://pub.dev/packages/linter/changelog#1260
