@@ -1,4 +1,11 @@
-##  [3.0.0][]
+## [3.1.0-0][3.1.0]
+
+**Prerelease**
+
+- `no_literal_bool_comparisons` [dart-lang/linter#3973][]
+- `matching_super_parameters` [dart-lang/linter#4263][]
+
+## [3.0.0][]
 
 [linter@1.35.0][]
 
@@ -105,6 +112,7 @@
 
 - Initial version, created by Stagehand
 
+[3.1.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#310
 [3.0.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#300
 [2.19.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2190
 [2.18.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2180
@@ -175,9 +183,11 @@
 [dart-lang/linter#3791]: https://github.com/dart-lang/linter/pull/3791
 [dart-lang/linter#3879]: https://github.com/dart-lang/linter/issues/3879
 [dart-lang/linter#3880]: https://github.com/dart-lang/linter/issues/3880
+[dart-lang/linter#3973]: https://github.com/dart-lang/linter/pull/3973
 [dart-lang/linter#3981]: https://github.com/dart-lang/linter/pull/3981
 [dart-lang/linter#4047]: https://github.com/dart-lang/linter/pull/4047
 [dart-lang/linter#4101]: https://github.com/dart-lang/linter/pull/4101
 [dart-lang/linter#4153]: https://github.com/dart-lang/linter/pull/4153
 [dart-lang/linter#4207]: https://github.com/dart-lang/linter/pull/4207
+[dart-lang/linter#4263]: https://github.com/dart-lang/linter/pull/4263
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
