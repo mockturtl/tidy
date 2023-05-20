@@ -1,21 +1,17 @@
-## HEAD
+##  [3.0.0][]
 
-**Prerelease**
+[linter@1.35.0][]
 
 - `unnecessary_breaks` [dart-lang/linter#3981][]
 - `invalid_case_patterns` [dart-lang/linter#4047][]
 - `implicit_reopen` [dart-lang/linter#4101][]
 - `deprecated_member_use_from_same_package` [dart-lang/linter#4153][]
 - `type_literal_in_constant_pattern` [dart-lang/linter#4207][]
+- REMOVE: `always_require_non_null_named_parameters`, `avoid_returning_null_for_future`, `avoid_returning_null`,
+  `prefer_equal_for_default_values` [dart-lang/linter#3879][]
+- REMOVE: `avoid_as`, `invariant_booleans`, `prefer_bool_in_asserts`,
+  `prefer_equal_for_default_values`, `super_goes_last`, `enable_null_safety` [dart-lang/linter#3880][]
 - REMOVE: `iterable_contains_unrelated_type`, `list_remove_unrelated_types` [dart-lang/linter#4360][]
-
-## [3.0.0-0][3.0.0]
-
-**Prerelease**
-
-[linter@1.32.0][]
-
-- REMOVE: deprecated lints [dart-lang/linter#3879][], [dart-lang/linter#3880][]
 
 ## [2.19.0][]
 
@@ -119,6 +115,7 @@
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
 
+[linter@1.35.0]: https://pub.dev/packages/linter/changelog#1350
 [linter@1.32.0]: https://pub.dev/packages/linter/changelog#1320
 [linter@1.31.0]: https://pub.dev/packages/linter/changelog#1310
 [linter@1.30.0]: https://pub.dev/packages/linter/changelog#1300
