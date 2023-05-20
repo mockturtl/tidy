@@ -6,6 +6,7 @@
 - `invalid_case_patterns` [dart-lang/linter#4047][]
 - `implicit_reopen` [dart-lang/linter#4101][]
 - `deprecated_member_use_from_same_package` [dart-lang/linter#4153][]
+- `type_literal_in_constant_pattern` [dart-lang/linter#4207][]
 
 ## [3.0.0-0][3.0.0]
 
@@ -180,3 +181,4 @@
 [dart-lang/linter#4047]: https://github.com/dart-lang/linter/pull/4047
 [dart-lang/linter#4101]: https://github.com/dart-lang/linter/pull/4101
 [dart-lang/linter#4153]: https://github.com/dart-lang/linter/pull/4153
+[dart-lang/linter#4207]: https://github.com/dart-lang/linter/pull/4207
