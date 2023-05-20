@@ -7,6 +7,7 @@
 - `implicit_reopen` [dart-lang/linter#4101][]
 - `deprecated_member_use_from_same_package` [dart-lang/linter#4153][]
 - `type_literal_in_constant_pattern` [dart-lang/linter#4207][]
+- REMOVE: `iterable_contains_unrelated_type`, `list_remove_unrelated_types` [dart-lang/linter#4360][]
 
 ## [3.0.0-0][3.0.0]
 
@@ -182,3 +183,4 @@
 [dart-lang/linter#4101]: https://github.com/dart-lang/linter/pull/4101
 [dart-lang/linter#4153]: https://github.com/dart-lang/linter/pull/4153
 [dart-lang/linter#4207]: https://github.com/dart-lang/linter/pull/4207
+[dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
