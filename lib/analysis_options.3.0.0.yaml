@@ -81,6 +81,7 @@ linter:
     - implementation_imports
     - implicit_call_tearoffs
     - iterable_contains_unrelated_type # DEPRECATED? in 3.0 https://github.com/dart-lang/linter/issues/3879
+    - implicit_reopen
     - invalid_case_patterns
     - join_return_with_assignment
     #    - leading_newlines_in_multiline_strings  # note: optional
