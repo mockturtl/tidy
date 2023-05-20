@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `unnecessary_breaks` [dart-lang/linter#3981][]
+- `deprecated_member_use_from_same_package` [dart-lang/linter#4153][]
 
 ## [3.0.0-0][3.0.0]
 
@@ -174,3 +175,4 @@
 [dart-lang/linter#3879]: https://github.com/dart-lang/linter/issues/3879
 [dart-lang/linter#3880]: https://github.com/dart-lang/linter/issues/3880
 [dart-lang/linter#3981]: https://github.com/dart-lang/linter/pull/3981
+[dart-lang/linter#4153]: https://github.com/dart-lang/linter/pull/4153
