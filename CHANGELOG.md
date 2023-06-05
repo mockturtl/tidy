@@ -1,3 +1,9 @@
+## HEAD
+
+**Prerelease**
+
+- `no_self_assignments` [dart-lang/linter#4067][]
+
 ## [3.1.0-0][3.1.0]
 
 **Prerelease**
@@ -186,6 +192,7 @@
 [dart-lang/linter#3973]: https://github.com/dart-lang/linter/pull/3973
 [dart-lang/linter#3981]: https://github.com/dart-lang/linter/pull/3981
 [dart-lang/linter#4047]: https://github.com/dart-lang/linter/pull/4047
+[dart-lang/linter#4067]: https://github.com/dart-lang/linter/pull/4067
 [dart-lang/linter#4101]: https://github.com/dart-lang/linter/pull/4101
 [dart-lang/linter#4153]: https://github.com/dart-lang/linter/pull/4153
 [dart-lang/linter#4207]: https://github.com/dart-lang/linter/pull/4207
