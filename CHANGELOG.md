@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `no_self_assignments` [dart-lang/linter#4067][]
+- `no_wildcard_variable_uses` [dart-lang/linter#4396][]
 
 ## [3.1.0-0][3.1.0]
 
@@ -198,3 +199,4 @@
 [dart-lang/linter#4207]: https://github.com/dart-lang/linter/pull/4207
 [dart-lang/linter#4263]: https://github.com/dart-lang/linter/pull/4263
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
+[dart-lang/linter#4396]: https://github.com/dart-lang/linter/pull/4396
