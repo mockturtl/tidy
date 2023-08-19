@@ -1,16 +1,9 @@
-## HEAD
-
-**Prerelease**
-
-- `no_self_assignments` [dart-lang/linter#4067][]
-- `no_wildcard_variable_uses` [dart-lang/linter#4396][]
-
-## [3.1.0-0][3.1.0]
-
-**Prerelease**
+## [3.1.0][]
 
 - `no_literal_bool_comparisons` [dart-lang/linter#3973][]
 - `matching_super_parameters` [dart-lang/linter#4263][]
+- `no_self_assignments` [dart-lang/linter#4067][]
+- `no_wildcard_variable_uses` [dart-lang/linter#4396][]
 
 ## [3.0.0][]
 
