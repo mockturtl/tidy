@@ -1,3 +1,7 @@
+## HEAD
+
+- `annotate_redeclares` [dart-lang/linter#4747][]
+
 ## [3.2.0-0][3.2.0]
 
 **Prerelease**
@@ -198,3 +202,4 @@
 [dart-lang/linter#4263]: https://github.com/dart-lang/linter/pull/4263
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
 [dart-lang/linter#4396]: https://github.com/dart-lang/linter/pull/4396
+[dart-lang/linter#4747]: https://github.com/dart-lang/linter/issues/4747

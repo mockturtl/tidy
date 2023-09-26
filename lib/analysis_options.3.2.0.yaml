@@ -10,6 +10,7 @@ linter:
     #    - always_specify_types # conflicts: omit_local_variable_types
     #    - always_use_package_imports # conflicts: prefer_relative_imports
     - annotate_overrides
+    - annotate_redeclares
     - avoid_annotating_with_dynamic # DEPRECATED? in 3.0 https://github.com/dart-lang/linter/issues/3879
     - avoid_bool_literals_in_conditional_expressions
     - avoid_catches_without_on_clauses
