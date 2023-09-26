@@ -5,7 +5,7 @@ tidy
 
 The complete annotated set of Dart analysis options, mostly enabled.
 
-See [`tool/compare.sh`](tool/compare.sh) for a diff with [all rules](https://github.com/dart-lang/linter/blob/master/example/all.yaml).
+See [`tool/compare.sh`](tool/compare.sh) for a diff with [all rules](https://github.com/dart-lang/sdk/blob/main/pkg/linter/example/all.yaml).
 Opinionated bits are commented.
 
 Note a rule's existence upstream does not imply stability, or publication to [dart-lang.github.io/linter][].
