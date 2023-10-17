@@ -1,3 +1,7 @@
+## [3.3.0-0][3.3.0]
+
+**Prerelease**
+
 ## [3.2.0][]
 
 - `annotate_redeclares` [dart-lang/linter#4747][]
@@ -116,6 +120,7 @@
 
 - Initial version, created by Stagehand
 
+[3.3.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#330
 [3.2.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#320
 [3.1.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#310
 [3.0.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#300
