@@ -1,3 +1,7 @@
+## HEAD
+
+- `avoid_unstable_final_fields` [dart-lang/linter#3578][]
+
 ## [3.3.0-0][3.3.0]
 
 **Prerelease**
@@ -184,6 +188,7 @@
 [dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
 [dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
 [dart-lang/linter#3513]: https://github.com/dart-lang/linter/pull/3513
+[dart-lang/linter#3578]: https://github.com/dart-lang/linter/pull/3578
 [dart-lang/linter#3567]: https://github.com/dart-lang/linter/pull/3567
 [dart-lang/linter#3692]: https://github.com/dart-lang/linter/pull/3692
 [dart-lang/linter#3796]: https://github.com/dart-lang/linter/pull/3796
