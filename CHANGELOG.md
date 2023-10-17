@@ -1,10 +1,6 @@
-## HEAD
+## [3.2.0][]
 
 - `annotate_redeclares` [dart-lang/linter#4747][]
-
-## [3.2.0-0][3.2.0]
-
-**Prerelease**
 
 ## [3.1.0][]
 
