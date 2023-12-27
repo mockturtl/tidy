@@ -1,6 +1,7 @@
 ## HEAD
 
 - `avoid_unstable_final_fields` [dart-lang/linter#3578][]
+  - removed in [dart-lang/sdk#54278][]
 
 ## [3.3.0-0][3.3.0]
 
@@ -209,3 +210,4 @@
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
 [dart-lang/linter#4396]: https://github.com/dart-lang/linter/pull/4396
 [dart-lang/linter#4747]: https://github.com/dart-lang/linter/issues/4747
+[dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
