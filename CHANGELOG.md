@@ -1,11 +1,6 @@
-## HEAD
+## [3.3.0][]
 
-- `avoid_unstable_final_fields` [dart-lang/linter#3578][]
-  - removed in [dart-lang/sdk#54278][]
-
-## [3.3.0-0][3.3.0]
-
-**Prerelease**
+No changes.
 
 ## [3.2.0][]
 
