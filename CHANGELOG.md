@@ -1,3 +1,7 @@
+## HEAD
+
+- `missing_code_block_language_in_doc_comment` [dart-lang/linter#4904][]
+
 ## [3.4.0-0][3.4.0]
 
 **Prerelease**
@@ -210,4 +214,5 @@ No changes.
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
 [dart-lang/linter#4396]: https://github.com/dart-lang/linter/pull/4396
 [dart-lang/linter#4747]: https://github.com/dart-lang/linter/issues/4747
+[dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
