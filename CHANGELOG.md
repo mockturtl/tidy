@@ -1,4 +1,6 @@
-## HEAD
+## [3.4.0-1][3.4.0]
+
+**Prerelease**
 
 - `missing_code_block_language_in_doc_comment` [dart-lang/linter#4904][]
 - `unnecessary_library_name` [dart-lang/linter#3882][]
