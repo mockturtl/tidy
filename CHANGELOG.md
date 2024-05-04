@@ -2,6 +2,7 @@
 
 - `missing_code_block_language_in_doc_comment` [dart-lang/linter#4904][]
 - `unnecessary_library_name` [dart-lang/linter#3882][]
+- `unintented_html_in_doc_comment` [dart-lang/linter#4793][]
 
 ## [3.4.0-0][3.4.0]
 
@@ -216,5 +217,6 @@ No changes.
 [dart-lang/linter#4360]: https://github.com/dart-lang/linter/pull/4360
 [dart-lang/linter#4396]: https://github.com/dart-lang/linter/pull/4396
 [dart-lang/linter#4747]: https://github.com/dart-lang/linter/issues/4747
+[dart-lang/linter#4793]: https://github.com/dart-lang/linter/issues/4793
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
