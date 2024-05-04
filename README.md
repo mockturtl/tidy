@@ -8,9 +8,9 @@ The complete annotated set of Dart analysis options, mostly enabled.
 See [`tool/compare.sh`](tool/compare.sh) for a diff with [all rules](https://github.com/dart-lang/sdk/blob/main/pkg/linter/example/all.yaml).
 Opinionated bits are commented.
 
-Note a rule's existence upstream does not imply stability, or publication to [dart-lang.github.io/linter][].
+Note a rule's existence upstream does not imply stability, or publication to [dart.dev/tools/linter-rules][].
 
-[dart-lang.github.io/linter]: https://dart-lang.github.io/linter/lints/index.html
+[dart.dev/tools/linter-rules]: https://dart.dev/tools/linter-rules
 
 Usage
 -----
