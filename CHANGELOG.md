@@ -1,7 +1,7 @@
 ## HEAD
 
 - `invalid_runtime_check_with_js_interop_types` [dart-lang/linter#4841][]
-- TODO: move `unintented_html_in_doc_comment` to 3.5.0-0, per [dart-lang/sdk@09e92e2](https://github.com/dart-lang/sdk/commit/09e92e2a49ae7f3b32e0381a9d34c01d4b21e413)
+- move `unintented_html_in_doc_comment` to 3.5.0-0, per [dart-lang/sdk@09e92e2](https://github.com/dart-lang/sdk/commit/09e92e2a49ae7f3b32e0381a9d34c01d4b21e413)
 
 ## [3.4.0-1][3.4.0]
 
