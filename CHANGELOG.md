@@ -2,6 +2,9 @@
 
 **Prerelease**
 
+- `unintented_html_in_doc_comment` [dart-lang/linter#4793][]
+- `invalid_runtime_check_with_js_interop_types` [dart-lang/linter#4841][]
+
 ## [3.4.0][]
 
 - `missing_code_block_language_in_doc_comment` [dart-lang/linter#4904][]
