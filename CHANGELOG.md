@@ -4,6 +4,7 @@
 
 - `unintented_html_in_doc_comment` [dart-lang/linter#4793][]
 - `invalid_runtime_check_with_js_interop_types` [dart-lang/linter#4841][]
+- `document_ignores` [dart-lang/linter#4860][]
 
 ## [3.4.0][]
 
@@ -222,5 +223,6 @@ No changes.
 [dart-lang/linter#4747]: https://github.com/dart-lang/linter/issues/4747
 [dart-lang/linter#4793]: https://github.com/dart-lang/linter/issues/4793
 [dart-lang/linter#4841]: https://github.com/dart-lang/linter/issues/4841
+[dart-lang/linter#4860]: https://github.com/dart-lang/linter/issues/4860
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
