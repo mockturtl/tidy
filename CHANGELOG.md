@@ -1,3 +1,7 @@
+## HEAD
+
+**Prerelease**
+
 ## [3.4.0][]
 
 - `missing_code_block_language_in_doc_comment` [dart-lang/linter#4904][]
@@ -125,6 +129,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.5.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#350
 [3.4.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#340
 [3.3.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#330
 [3.2.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#320
