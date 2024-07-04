@@ -1,3 +1,7 @@
+## [3.6.0-0][3.6.0]
+
+**Prerelease**
+
 ## [3.5.0][]
 
 - `unintented_html_in_doc_comment` [dart-lang/linter#4793][]
@@ -131,6 +135,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.6.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#360
 [3.5.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#350
 [3.4.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#340
 [3.3.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#330
