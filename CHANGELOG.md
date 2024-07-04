@@ -1,6 +1,4 @@
-## [3.5.0-0][3.5.0]
-
-**Prerelease**
+## [3.5.0][]
 
 - `unintented_html_in_doc_comment` [dart-lang/linter#4793][]
 - `invalid_runtime_check_with_js_interop_types` [dart-lang/linter#4841][]
