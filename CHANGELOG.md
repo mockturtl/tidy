@@ -3,6 +3,8 @@
 **Prerelease**
 
 - `use_truncating_division` [dart-lang/linter#3930][]
+- OPT-IN: `omit_obvious_local_variable_types` [dart-lang/linter#3480][]
+- OPT-IN: `specify_nonobvious_local_variable_types` [dart-lang/linter#3480][]
 
 ## [3.6.0-0][3.6.0]
 
@@ -206,6 +208,7 @@ No changes.
 [dart-lang/linter#3414]: https://github.com/dart-lang/linter/pull/3414
 [dart-lang/linter#3431]: https://github.com/dart-lang/linter/pull/3431
 [dart-lang/linter#3468]: https://github.com/dart-lang/linter/pull/3468
+[dart-lang/linter#3480]: https://github.com/dart-lang/linter/issues/3480
 [dart-lang/linter#3497]: https://github.com/dart-lang/linter/pull/3497
 [dart-lang/linter#3513]: https://github.com/dart-lang/linter/pull/3513
 [dart-lang/linter#3578]: https://github.com/dart-lang/linter/pull/3578
