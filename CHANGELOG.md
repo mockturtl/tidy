@@ -1,3 +1,9 @@
+## HEAD
+
+**Prerelease**
+
+- `use_truncating_division` [dart-lang/linter#3930][]
+
 ## [3.6.0-0][3.6.0]
 
 **Prerelease**
@@ -213,6 +219,7 @@ No changes.
 [dart-lang/linter#3879]: https://github.com/dart-lang/linter/issues/3879
 [dart-lang/linter#3880]: https://github.com/dart-lang/linter/issues/3880
 [dart-lang/linter#3882]: https://github.com/dart-lang/linter/issues/3882
+[dart-lang/linter#3930]: https://github.com/dart-lang/linter/issues/3930
 [dart-lang/linter#3973]: https://github.com/dart-lang/linter/pull/3973
 [dart-lang/linter#3981]: https://github.com/dart-lang/linter/pull/3981
 [dart-lang/linter#4047]: https://github.com/dart-lang/linter/pull/4047
