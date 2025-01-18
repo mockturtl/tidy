@@ -1,15 +1,9 @@
-## [3.6.0-1][3.6.0]
-
-**Prerelease**
+## [3.6.0][]
 
 - `use_truncating_division` [dart-lang/linter#3930][]
 - OPT-IN: `omit_obvious_local_variable_types` [dart-lang/linter#3480][]
 - OPT-IN: `specify_nonobvious_local_variable_types` [dart-lang/linter#3480][]
 - `avoid_futureor_void` [dart-lang/linter#4622][]
-
-## [3.6.0-0][3.6.0]
-
-**Prerelease**
 
 ## [3.5.0][]
 
