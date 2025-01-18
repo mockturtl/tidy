@@ -3,6 +3,7 @@
 **Prerelease**
 
 - REMOVE: `package_api_docs` [dart-lang/sdk#59554][]
+- REMOVE: `unsafe_html` [dart-lang/sdk#57099][]
 
 ## [3.6.0][]
 
@@ -242,4 +243,5 @@ No changes.
 [dart-lang/linter#4860]: https://github.com/dart-lang/linter/issues/4860
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
+[dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
 [dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
