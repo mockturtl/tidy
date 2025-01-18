@@ -6,6 +6,8 @@
 - `strict_top_level_inference` [dart-lang/sdk#59562][]
 - `unsafe_variance` [dart-lang/sdk#59050][]
 - `unnecessary_async` [dart-lang/sdk#59814][]
+- `omit_obvious_property_types` [dart-lang/sdk#59550][]
+- `specify_nonobvious_property_types` [dart-lang/sdk#59550][]
 - REMOVE: `package_api_docs` [dart-lang/sdk#59554][]
 - REMOVE: `unsafe_html` [dart-lang/sdk#57099][]
 
@@ -249,6 +251,7 @@ No changes.
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
 [dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
 [dart-lang/sdk#59050]: https://github.com/dart-lang/sdk/issues/59050
+[dart-lang/sdk#59550]: https://github.com/dart-lang/sdk/issues/59550
 [dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
 [dart-lang/sdk#59638]: https://github.com/dart-lang/sdk/issues/59638

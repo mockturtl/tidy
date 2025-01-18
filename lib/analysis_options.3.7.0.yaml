@@ -113,6 +113,7 @@ linter:
     - null_closures
     - omit_local_variable_types
     #    - omit_obvious_local_variable_types  # subset of omit_local_variable_types
+    - omit_obvious_property_types
     - one_member_abstracts
     - only_throw_errors
     - overridden_fields
@@ -171,6 +172,7 @@ linter:
     #    - sort_pub_dependencies  # conflicts with grouping local packages separately.  Do keep groups sorted.
     - sort_unnamed_constructors_first
     #    - specify_nonobvious_local_variable_types  # conflicts: omit_local_variable_types
+    - specify_nonobvious_property_types
     - strict_top_level_inference
     - test_types_in_equals
     - throw_in_finally
