@@ -2,6 +2,8 @@
 
 **Prerelease**
 
+- REMOVE: `package_api_docs` [dart-lang/sdk#59554][]
+
 ## [3.6.0][]
 
 - `use_truncating_division` [dart-lang/linter#3930][]
@@ -240,3 +242,4 @@ No changes.
 [dart-lang/linter#4860]: https://github.com/dart-lang/linter/issues/4860
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
+[dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
