@@ -1,3 +1,7 @@
+## [3.7.0-0][3.7.0]
+
+**Prerelease**
+
 ## [3.6.0][]
 
 - `use_truncating_division` [dart-lang/linter#3930][]
@@ -138,6 +142,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.7.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#370
 [3.6.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#360
 [3.5.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#350
 [3.4.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#340
