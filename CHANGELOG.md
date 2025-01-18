@@ -2,6 +2,7 @@
 
 **Prerelease**
 
+- `strict_top_level_inference` [dart-lang/sdk#59562][]
 - REMOVE: `package_api_docs` [dart-lang/sdk#59554][]
 - REMOVE: `unsafe_html` [dart-lang/sdk#57099][]
 
@@ -245,3 +246,4 @@ No changes.
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
 [dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
 [dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
+[dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
