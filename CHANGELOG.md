@@ -4,6 +4,7 @@
 
 - `unnecessary_underscores` [dart-lang/sdk#59638][]
 - `strict_top_level_inference` [dart-lang/sdk#59562][]
+- `unsafe_variance` [dart-lang/sdk#59050][]
 - REMOVE: `package_api_docs` [dart-lang/sdk#59554][]
 - REMOVE: `unsafe_html` [dart-lang/sdk#57099][]
 
@@ -246,6 +247,7 @@ No changes.
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
 [dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
+[dart-lang/sdk#59050]: https://github.com/dart-lang/sdk/issues/59050
 [dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
 [dart-lang/sdk#59638]: https://github.com/dart-lang/sdk/issues/59638
