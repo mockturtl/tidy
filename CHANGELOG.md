@@ -1,3 +1,7 @@
+## [3.8.0-0][3.8.0]
+
+**Prerelease**
+
 ## [3.7.0-1][3.7.0]
 
 **Prerelease**
@@ -151,6 +155,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.8.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#380
 [3.7.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#370
 [3.6.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#360
 [3.5.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#350
