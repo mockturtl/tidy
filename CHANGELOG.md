@@ -1,6 +1,4 @@
-## [3.7.0-1][3.7.0]
-
-**Prerelease**
+## [3.7.0][]
 
 - `unnecessary_underscores` [dart-lang/sdk#59638][]
 - `strict_top_level_inference` [dart-lang/sdk#59562][]
