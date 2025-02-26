@@ -1,3 +1,7 @@
+## HEAD
+
+- `use_null_aware_elements` [dart-lang/sdk@4b9ed5e][]
+
 ## [3.8.0-1][3.8.0]
 
 **Prerelease**
@@ -266,3 +270,5 @@ No changes.
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
 [dart-lang/sdk#59638]: https://github.com/dart-lang/sdk/issues/59638
 [dart-lang/sdk#59814]: https://github.com/dart-lang/sdk/issues/59814
+
+[dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
