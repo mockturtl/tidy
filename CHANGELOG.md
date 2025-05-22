@@ -2,6 +2,8 @@
 
 **Prerelease**
 
+- `switch_on_type` [dart-lang/sdk#59546][]
+
 ## [3.8.0][]
 
 - `use_null_aware_elements` [dart-lang/sdk@4b9ed5e][]
@@ -260,6 +262,7 @@ No changes.
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
 [dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
 [dart-lang/sdk#59050]: https://github.com/dart-lang/sdk/issues/59050
+[dart-lang/sdk#59546]: https://github.com/dart-lang/sdk/issues/59546
 [dart-lang/sdk#59550]: https://github.com/dart-lang/sdk/issues/59550
 [dart-lang/sdk#59554]: https://github.com/dart-lang/sdk/issues/59554
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
