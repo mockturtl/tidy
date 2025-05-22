@@ -1,16 +1,7 @@
-## HEAD
+## [3.8.0][]
 
 - `use_null_aware_elements` [dart-lang/sdk@4b9ed5e][]
-
-## [3.8.0-1][3.8.0]
-
-**Prerelease**
-
 - `unnecessary_ignore` [dart-lang/sdk#35234][]
-
-## [3.8.0-0][3.8.0]
-
-**Prerelease**
 
 ## [3.7.0][]
 
