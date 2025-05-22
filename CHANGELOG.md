@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `switch_on_type` [dart-lang/sdk#59546][]
+- `unnecessary_unawaited` [dart-lang/sdk#46218][]
 
 ## [3.8.0][]
 
@@ -259,6 +260,7 @@ No changes.
 [dart-lang/linter#4860]: https://github.com/dart-lang/linter/issues/4860
 [dart-lang/linter#4904]: https://github.com/dart-lang/linter/issues/4904
 [dart-lang/sdk#35234]: https://github.com/dart-lang/sdk/issues/35234
+[dart-lang/sdk#46218]: https://github.com/dart-lang/sdk/issues/46218
 [dart-lang/sdk#54278]: https://github.com/dart-lang/sdk/issues/54278
 [dart-lang/sdk#57099]: https://github.com/dart-lang/sdk/issues/57099
 [dart-lang/sdk#59050]: https://github.com/dart-lang/sdk/issues/59050
