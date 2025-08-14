@@ -1,15 +1,8 @@
-## HEAD
-
-**Prerelease**
-
-- REMOVE: `omit_obvious_property_types`
-
-## [3.9.0-0][3.9.0]
-
-**Prerelease**
+## [3.9.0][]
 
 - `switch_on_type` [dart-lang/sdk#59546][]
 - `unnecessary_unawaited` [dart-lang/sdk#46218][]
+- REMOVE: `omit_obvious_property_types`
 
 ## [3.8.0][]
 
