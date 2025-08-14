@@ -112,7 +112,7 @@ linter:
     - null_check_on_nullable_type_parameter
     - null_closures
     - omit_local_variable_types
-    #    - omit_obvious_local_variable_types  # subset of omit_local_variable_types
+    #    - omit_obvious_local_variable_types # subset of omit_local_variable_types
     #    - omit_obvious_property_types # conflicts: type_annotate_public_apis
     - one_member_abstracts
     - only_throw_errors
@@ -134,7 +134,7 @@ linter:
     #    - prefer_double_quotes # conflicts: prefer_single_quotes
     - prefer_expression_function_bodies
     - prefer_final_fields
-    #    - prefer_final_in_for_each  # conflicts: unnecessary_final
+    #    - prefer_final_in_for_each # conflicts: unnecessary_final
     #    - prefer_final_locals # conflicts: unnecessary_final
     #    - prefer_final_parameters # conflicts: unnecessary_final, avoid_final_parameters
     - prefer_for_elements_to_map_fromIterable
