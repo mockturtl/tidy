@@ -1,3 +1,7 @@
+## HEAD
+
+**Prerelease**
+
 ## [3.9.0][]
 
 - `switch_on_type` [dart-lang/sdk#59546][]
