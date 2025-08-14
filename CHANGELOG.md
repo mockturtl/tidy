@@ -1,3 +1,9 @@
+## HEAD
+
+**Prerelease**
+
+- REMOVE: `omit_obvious_property_types`
+
 ## [3.9.0-0][3.9.0]
 
 **Prerelease**
