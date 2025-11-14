@@ -9,7 +9,7 @@
 
 - `switch_on_type` [dart-lang/sdk#59546][]
 - `unnecessary_unawaited` [dart-lang/sdk#46218][]
-- REMOVE: `omit_obvious_property_types`
+- OPT-IN: `omit_obvious_property_types`
 
 ## [3.8.0][]
 
