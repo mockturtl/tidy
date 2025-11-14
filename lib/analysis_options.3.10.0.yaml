@@ -162,6 +162,7 @@ linter:
     - provide_deprecation_message
     #    - public_member_api_docs # note: consider overriding as API stabilizes
     - recursive_getters
+    - remove_deprecations_in_breaking_versions
     #    - require_trailing_commas # note: let `dart format` wrap closing brackets
     - secure_pubspec_urls
     - sized_box_for_whitespace

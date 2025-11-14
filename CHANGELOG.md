@@ -2,6 +2,8 @@
 
 **Prerelease**
 
+- `remove_deprecations_in_breaking_versions` [dart-lang/sdk@82ce96c][]
+
 ## [3.9.0][]
 
 - `switch_on_type` [dart-lang/sdk#59546][]
@@ -164,6 +166,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.10.0]: https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#3100
 [3.9.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#390
 [3.8.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#380
 [3.7.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#370
@@ -276,3 +279,4 @@ No changes.
 [dart-lang/sdk#59814]: https://github.com/dart-lang/sdk/issues/59814
 
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
+[dart-lang/sdk@82ce96c]: https://github.com/dart-lang/sdk/commit/82ce96ca3aa0b684026e7efada73ec5d3f5bf8f7
