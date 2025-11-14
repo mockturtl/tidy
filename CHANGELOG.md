@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `remove_deprecations_in_breaking_versions` [dart-lang/sdk@82ce96c][]
+- OPT-IN: `specify_nonobvious_property_types`
 
 ## [3.9.0][]
 
