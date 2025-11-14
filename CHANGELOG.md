@@ -1,3 +1,7 @@
+## HEAD
+
+**Prerelease**
+
 ## [3.10.0][]
 
 - `remove_deprecations_in_breaking_versions` [dart-lang/sdk@82ce96c][]
