@@ -1,3 +1,7 @@
+## HEAD
+
+**Prerelease**
+
 ## [3.11.0][]
 
 - `simplify_variable_pattern` [dart-lang/sdk#60518][]
