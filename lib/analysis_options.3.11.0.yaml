@@ -135,7 +135,6 @@ linter:
     - prefer_final_fields
     #    - prefer_final_in_for_each # conflicts: unnecessary_final
     #    - prefer_final_locals # conflicts: unnecessary_final
-    #    - prefer_final_parameters # conflicts: unnecessary_final, avoid_final_parameters
     - prefer_for_elements_to_map_fromIterable
     - prefer_foreach
     - prefer_function_declarations_over_variables
