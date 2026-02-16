@@ -1,6 +1,4 @@
-## HEAD
-
-**Prerelease**
+## [3.11.0][]
 
 - `simplify_variable_pattern` [dart-lang/sdk#60518][]
 - REMOVE: `avoid_null_checks_in_equality_operators` [dart-lang/sdk#59514][]
@@ -174,6 +172,7 @@ No changes.
 
 - Initial version, created by Stagehand
 
+[3.11.0]: https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#3110
 [3.10.0]: https://github.com/dart-lang/sdk/blob/main/CHANGELOG.md#3100
 [3.9.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#390
 [3.8.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#380
