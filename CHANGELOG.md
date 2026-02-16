@@ -2,6 +2,8 @@
 
 **Prerelease**
 
+- REMOVE: `avoid_null_checks_in_equality_operators` [dart-lang/sdk#59514][]
+
 ## [3.10.0][]
 
 - `remove_deprecations_in_breaking_versions` [dart-lang/sdk@82ce96c][]
@@ -280,6 +282,7 @@ No changes.
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
 [dart-lang/sdk#59638]: https://github.com/dart-lang/sdk/issues/59638
 [dart-lang/sdk#59814]: https://github.com/dart-lang/sdk/issues/59814
+[dart-lang/sdk#59514]: https://github.com/dart-lang/sdk/issues/59514
 
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
 [dart-lang/sdk@82ce96c]: https://github.com/dart-lang/sdk/commit/82ce96ca3aa0b684026e7efada73ec5d3f5bf8f7
