@@ -2,6 +2,7 @@
 
 **Prerelease**
 
+- `simplify_variable_pattern` [dart-lang/sdk#60518][]
 - REMOVE: `avoid_null_checks_in_equality_operators` [dart-lang/sdk#59514][]
 - REMOVE: `prefer_final_parameters` [dart-lang/sdk#61675][]
 - REMOVE: `use_if_null_to_convert_nulls_to_bools` [dart-lang/sdk#58998][]
@@ -287,6 +288,7 @@ No changes.
 [dart-lang/sdk#58998]: https://github.com/dart-lang/sdk/issues/58998
 [dart-lang/sdk#59514]: https://github.com/dart-lang/sdk/issues/59514
 [dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
+[dart-lang/sdk#60518]: https://github.com/dart-lang/sdk/issues/60518
 
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
 [dart-lang/sdk@82ce96c]: https://github.com/dart-lang/sdk/commit/82ce96ca3aa0b684026e7efada73ec5d3f5bf8f7
