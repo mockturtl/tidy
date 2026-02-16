@@ -4,6 +4,7 @@
 
 - REMOVE: `avoid_null_checks_in_equality_operators` [dart-lang/sdk#59514][]
 - REMOVE: `prefer_final_parameters` [dart-lang/sdk#61675][]
+- REMOVE: `use_if_null_to_convert_nulls_to_bools` [dart-lang/sdk#58998][]
 
 ## [3.10.0][]
 
@@ -283,6 +284,7 @@ No changes.
 [dart-lang/sdk#59562]: https://github.com/dart-lang/sdk/issues/59562
 [dart-lang/sdk#59638]: https://github.com/dart-lang/sdk/issues/59638
 [dart-lang/sdk#59814]: https://github.com/dart-lang/sdk/issues/59814
+[dart-lang/sdk#58998]: https://github.com/dart-lang/sdk/issues/58998
 [dart-lang/sdk#59514]: https://github.com/dart-lang/sdk/issues/59514
 [dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
 
