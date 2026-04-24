@@ -1,3 +1,10 @@
+## HEAD
+
+**Prerelease**
+
+- `unnecessary_type_name_in_constructor` [][]
+- `unnecessary_const_in_enum_constructor` [][]
+
 ## [3.12.0][]
 
 - `var_with_no_type_annotation` [dart-lang/sdk@386a147][]
