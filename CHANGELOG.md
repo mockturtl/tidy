@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `var_with_no_type_annotation` [dart-lang/sdk@386a147][]
+- `simple_directive_paths` [dart-lang/sdk#62948][]
 
 ## [3.11.0][]
 
@@ -294,6 +295,7 @@ No changes.
 [dart-lang/sdk#59514]: https://github.com/dart-lang/sdk/issues/59514
 [dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
 [dart-lang/sdk#60518]: https://github.com/dart-lang/sdk/issues/60518
+[dart-lang/sdk#62948]: https://github.com/dart-lang/sdk/issues/62948
 
 [dart-lang/sdk@386a147]:https://github.com/dart-lang/sdk/commit/386a147b58826c4acac32efb3952ccd897ed29d3
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
