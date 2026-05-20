@@ -1,6 +1,4 @@
-## [3.12.0-0][3.12.0]
-
-**Prerelease**
+## [3.12.0][]
 
 - `var_with_no_type_annotation` [dart-lang/sdk@386a147][]
 - `simple_directive_paths` [dart-lang/sdk#62948][]
