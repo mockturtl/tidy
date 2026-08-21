@@ -2,9 +2,12 @@
 
 **Prerelease**
 
+- `async_return_with_no_await` [dart-lang/sdk#62555][]
 - REMOVE: `avoid_private_typedef_functions` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `one_member_abstracts` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `unnecessary_await_in_return` [dart-lang/sdk#63535][]
+
+
 
 - `unnecessary_const_in_enum_constructor` [][]
 
@@ -305,6 +308,7 @@ No changes.
 [dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
 [dart-lang/sdk#60518]: https://github.com/dart-lang/sdk/issues/60518
 [dart-lang/sdk#62948]: https://github.com/dart-lang/sdk/issues/62948
+[dart-lang/sdk#62555]: https://github.com/dart-lang/sdk/issues/62555
 [dart-lang/sdk#63535]: https://github.com/dart-lang/sdk/issues/63535
 
 [dart-lang/sdk@23ad0dc]: https://github.com/dart-lang/sdk/commit/23ad0dc77085bf6af75955f86983df9ae67838c1
