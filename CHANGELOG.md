@@ -1,4 +1,4 @@
-## HEAD
+## [3.13.0-1][pkg/linter@3.13.1]
 
 **Prerelease**
 
@@ -216,6 +216,8 @@ No changes.
 [2.14.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2140
 [2.13.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2130
 [2.12.0]: https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md#2120---2021-03-03
+
+[pkg/linter@3.13.1]: https://github.com/dart-lang/sdk/blob/3.13.1/pkg/linter/CHANGELOG.md
 
 [linter@1.35.0]: https://pub.dev/packages/linter/changelog#1350
 [linter@1.32.0]: https://pub.dev/packages/linter/changelog#1320
