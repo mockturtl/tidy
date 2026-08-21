@@ -5,6 +5,7 @@
 - `async_return_with_no_await` [dart-lang/sdk#62555][]
 - `empty_container_bodies` [dart-lang/sdk@f7c06eb][]
 - `initialize_in_field_declaration` [dart-lang/sdk@2fa07c6][]
+- `no_dynamic_casts` [dart-lang/sdk#63527][]
 - REMOVE: `avoid_private_typedef_functions` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `one_member_abstracts` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `unnecessary_await_in_return` [dart-lang/sdk#63535][]
@@ -311,6 +312,7 @@ No changes.
 [dart-lang/sdk#60518]: https://github.com/dart-lang/sdk/issues/60518
 [dart-lang/sdk#62948]: https://github.com/dart-lang/sdk/issues/62948
 [dart-lang/sdk#62555]: https://github.com/dart-lang/sdk/issues/62555
+[dart-lang/sdk#63527]: https://github.com/dart-lang/sdk/issues/63527
 [dart-lang/sdk#63535]: https://github.com/dart-lang/sdk/issues/63535
 
 [dart-lang/sdk@23ad0dc]: https://github.com/dart-lang/sdk/commit/23ad0dc77085bf6af75955f86983df9ae67838c1
