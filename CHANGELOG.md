@@ -11,12 +11,10 @@
 - `unnecessary_primary_constructor_body` [dart-lang/sdk@9f47e31][]
 - `unnecessary_type_name_in_constructor` [dart-lang/sdk@463b751][]
 - `use_declaring_parameters` [dart-lang/sdk@bec664e][]
+- `use_primary_constructors` [dart-lang/sdk@4d93f4d][]
 - REMOVE: `avoid_private_typedef_functions` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `one_member_abstracts` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `unnecessary_await_in_return` [dart-lang/sdk#63535][]
-
-
-
 
 ## [3.12.0][]
 
@@ -325,6 +323,7 @@ No changes.
 [dart-lang/sdk@386a147]:https://github.com/dart-lang/sdk/commit/386a147b58826c4acac32efb3952ccd897ed29d3
 [dart-lang/sdk@463b751]: https://github.com/dart-lang/sdk/commit/463b7517176464a5fa6a00eecded5aacdc1e85f8
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
+[dart-lang/sdk@4d93f4d]: https://github.com/dart-lang/sdk/commit/4d93f4d5863b37726339a3ba42d7f252defb11db
 [dart-lang/sdk@78412ea]: https://github.com/dart-lang/sdk/commit/78412eaeb8f897993292a3da8e7e38c8d4e34ebe
 [dart-lang/sdk@82ce96c]: https://github.com/dart-lang/sdk/commit/82ce96ca3aa0b684026e7efada73ec5d3f5bf8f7
 [dart-lang/sdk@9f47e31]: https://github.com/dart-lang/sdk/commit/9f47e3186d8c2d4bbe665828ff2c157a5dd4db0e
