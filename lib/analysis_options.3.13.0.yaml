@@ -191,6 +191,7 @@ linter:
     - unnecessary_brace_in_string_interps
     - unnecessary_breaks
     - unnecessary_const
+    - unnecessary_const_in_enum_constructor
     - unnecessary_constructor_name
     - unnecessary_final
     - unnecessary_getters_setters
@@ -207,6 +208,7 @@ linter:
     - unnecessary_nullable_for_final_variable_declarations
     - unnecessary_overrides
     - unnecessary_parenthesis
+    - unnecessary_primary_constructor_body
     - unnecessary_raw_strings
     - unnecessary_statements
     - unnecessary_string_escapes
