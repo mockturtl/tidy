@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `async_return_with_no_await` [dart-lang/sdk#62555][]
+- `empty_container_bodies` [dart-lang/sdk@f7c06eb][]
 - REMOVE: `avoid_private_typedef_functions` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `one_member_abstracts` [dart-lang/sdk@23ad0dc][]
 - REMOVE: `unnecessary_await_in_return` [dart-lang/sdk#63535][]
@@ -315,3 +316,4 @@ No changes.
 [dart-lang/sdk@386a147]:https://github.com/dart-lang/sdk/commit/386a147b58826c4acac32efb3952ccd897ed29d3
 [dart-lang/sdk@4b9ed5e]: https://github.com/dart-lang/sdk/commit/4b9ed5eb4fe09aab83cfec068829041ad98b717e
 [dart-lang/sdk@82ce96c]: https://github.com/dart-lang/sdk/commit/82ce96ca3aa0b684026e7efada73ec5d3f5bf8f7
+[dart-lang/sdk@f7c06eb]: https://github.com/dart-lang/sdk/commit/f7c06eb18004949e159d72bb6593e92608cdc4e5
