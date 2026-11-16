@@ -1,9 +1,14 @@
+## HEAD
+
+**Prerelease**
+
+- `unnecessary_this_alias` [dart-lang/sdk#63888][]
+
 ## [3.14.0-0][3.14.0]
 
 **Prerelease**
 
 - `future_sync_value` [dart-lang/sdk#61740][]
-- `unnecessary_this_alias` [dart-lang/sdk#63888][]
 
 ## [3.13.0][]
 
