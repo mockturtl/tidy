@@ -2,6 +2,8 @@
 
 **Prerelease**
 
+- `future_sync_value` [dart-lang/sdk#61740][]
+
 ## [3.13.0][]
 
 - `async_return_with_no_await` [dart-lang/sdk#62555][]
@@ -314,10 +316,11 @@ No changes.
 [dart-lang/sdk#59814]: https://github.com/dart-lang/sdk/issues/59814
 [dart-lang/sdk#58998]: https://github.com/dart-lang/sdk/issues/58998
 [dart-lang/sdk#59514]: https://github.com/dart-lang/sdk/issues/59514
-[dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
 [dart-lang/sdk#60518]: https://github.com/dart-lang/sdk/issues/60518
-[dart-lang/sdk#62948]: https://github.com/dart-lang/sdk/issues/62948
+[dart-lang/sdk#61675]: https://github.com/dart-lang/sdk/issues/61675
+[dart-lang/sdk#61740]: https://github.com/dart-lang/sdk/issues/61740
 [dart-lang/sdk#62555]: https://github.com/dart-lang/sdk/issues/62555
+[dart-lang/sdk#62948]: https://github.com/dart-lang/sdk/issues/62948
 [dart-lang/sdk#63516]: https://github.com/dart-lang/sdk/issues/63516
 [dart-lang/sdk#63527]: https://github.com/dart-lang/sdk/issues/63527
 [dart-lang/sdk#63535]: https://github.com/dart-lang/sdk/issues/63535
