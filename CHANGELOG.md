@@ -1,6 +1,4 @@
-## [3.13.0-1][pkg/linter@3.13.1]
-
-**Prerelease**
+## [3.13.0][]
 
 - `async_return_with_no_await` [dart-lang/sdk#62555][]
 - `empty_container_bodies` [dart-lang/sdk@f7c06eb][]
