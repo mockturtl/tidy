@@ -3,6 +3,7 @@
 **Prerelease**
 
 - `future_sync_value` [dart-lang/sdk#61740][]
+- `unnecessary_this_alias` [dart-lang/sdk#63888][]
 
 ## [3.13.0][]
 
@@ -324,6 +325,7 @@ No changes.
 [dart-lang/sdk#63516]: https://github.com/dart-lang/sdk/issues/63516
 [dart-lang/sdk#63527]: https://github.com/dart-lang/sdk/issues/63527
 [dart-lang/sdk#63535]: https://github.com/dart-lang/sdk/issues/63535
+[dart-lang/sdk#63888]: https://github.com/dart-lang/sdk/issues/63888
 
 [dart-lang/sdk@23ad0dc]: https://github.com/dart-lang/sdk/commit/23ad0dc77085bf6af75955f86983df9ae67838c1
 [dart-lang/sdk@2fa07c6]: https://github.com/dart-lang/sdk/commit/2fa07c6488075e3b6b8e453f1121251dcab7d8bb
